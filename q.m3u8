@@ -1,4 +1,16 @@
-#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Кинозалы" tvg-id="53382" tvg-logo="http://epg.propg.net/img/channel_icons/53382.png" ,CineMan
-http://rr3.tvdosug.net/~2011b0380ecb0a1e74ed5733d3a0cd84edd/53382/hlsx/pl.m3u8
-#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Кинозалы" tvg-id="63846" tvg-logo="http://epg.propg.net/img/channel_icons/63846.png" ,Cineman Action
-http://rr3.tvdosug.net/~2011b0380ecb0a1e74ed5733d3a0cd84edd/63846/hlsx/pl.m3u8
+#EXTINF:-1 tvg-name="первый канал" group-title="Эфирные",Первый канал
+http://127.0.0.1:6878/ace/getstream?infohash=1cd49e97c4889b35a169ff36ea0d048746abc247
+#EXTINF:-1 group-title="Эфирные",Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-name="россия 1 hd" group-title="Эфирные",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-name="нтв" group-title="Эфирные",НТВ
+http://127.0.0.1:6878/ace/getstream?infohash=c29f1c1354a942851181529cfcaa19bf3c7ac3c0
+#EXTINF:-1 tvg-name="нтв hd" group-title="Эфирные",НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="стс hd" group-title="Эфирные",СТС HD
+http://127.0.0.1:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
+#EXTINF:-1 tvg-name="тнт" group-title="Эфирные",ТНТ
+http://127.0.0.1:6878/ace/getstream?infohash=a6169d01fb2b8a62b45857666946732773c651d1
+#EXTINF:-1 tvg-name="тнт hd" group-title="Эфирные",ТНТ HD
+http://188.190.222.53/THT_HD/tracks-v1a1/mono.ts.m3u8
