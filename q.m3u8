@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg2.xml.gz"
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://dl.dropbox.com/scl/fi/9isx6i3fosgfk92189p36/one-qr.ru-MEgaY3fPa-png123.png?rlkey=vtnv7rewuzix624a1ptouzjo8&st=e9gwq1vp&dl=0" group-title="ИНФО",Сказать Спасибо
+https://dl.dropbox.com/scl/fi/2f2nzy0w7dnyn4wc9rfum/2.mp4?rlkey=8we33t2i8jabxbd7p75kynydl&st=kt4hyog5&dl=0
 #EXTINF:-1 tvg-name="первый канал" group-title="Эфирные",Первый канал
 http://127.0.0.1:6878/ace/getstream?infohash=1cd49e97c4889b35a169ff36ea0d048746abc247
 #EXTINF:-1 group-title="Эфирные",Первый канал HD
@@ -15,3 +17,203 @@ http://127.0.0.1:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9d
 http://127.0.0.1:6878/ace/getstream?infohash=a6169d01fb2b8a62b45857666946732773c651d1
 #EXTINF:-1 tvg-name="тнт hd" group-title="Эфирные",ТНТ HD
 http://188.190.222.53/THT_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="тнт4 hd" group-title="Эфирные",ТНТ4 HD
+http://127.0.0.1:6878/ace/getstream?infohash=6f169084c32e98f87f49d9880406873c3453b49d
+#EXTINF:-1 tvg-name="пятница! hd" group-title="Эфирные",Пятница! HD
+http://127.0.0.1:6878/ace/getstream?infohash=a95ec5a3780c3a3c76da5707b12561daee4f2305
+#EXTINF:-1 tvg-name="твоё тв hd юмор" group-title="Эфирные",Твое ТВ Юмор
+http://127.0.0.1:6878/ace/getstream?infohash=dfd91947739f46974eb7273304c42f6ffc720aca
+#EXTINF:-1 group-title="Эфирные",Мистер Бин
+http://127.0.0.1:6878/ace/getstream?infohash=9397eccff2cb0b7db3b66ef3869f61be5b350bf4
+#EXTINF:-1 tvg-name="квн тв" group-title="Эфирные",КВН ТВ
+http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:-1 group-title="Эфирные",Рен ТВ HD
+http://cdn.admuspeh.my/8312/video.m3u8?token=C89nwPVSWZsaoXUy
+#EXTINF:-1 tvg-name="рен тв" group-title="Эфирные",Рен ТВ
+http://127.0.0.1:6878/ace/getstream?infohash=91d445104c9f83bb748ccd9e826a403493b755ff
+#EXTINF:-1 tvg-name="тв3 hd" group-title="Эфирные",ТВ3 HD
+http://127.0.0.1:6878/ace/getstream?infohash=3403267623697a7092a10478aad7f234f2ce4a64
+#EXTINF:-1 tvg-name="россия-культура" group-title="Эфирные",Россия-Культура
+http://127.0.0.1:6878/ace/getstream?infohash=182ddc33140dcec8b462e3c067f7d0683f5f8ff1
+#EXTINF:-1 tvg-name="россия 24" group-title="Эфирные",Россия 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 tvg-name="москва 24" group-title="Эфирные",Москва 24
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+#EXTINF:-1 tvg-name="москва.доверие" group-title="Эфирные",Москва Доверие
+http://127.0.0.1:6878/ace/getstream?infohash=c5522846b949ffe3a94ad2baa0da2c1818059222
+#EXTINF:-1 group-title="Эфирные",Санкт-Петербург HD
+http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
+#EXTINF:-1 tvg-name="твц" group-title="Эфирные",ТВЦ
+http://127.0.0.1:6878/ace/getstream?infohash=950d467850035710f8d9230711aa442598295a8b
+#EXTINF:-1 tvg-name="пятый канал" group-title="Эфирные",Пятый канал
+http://127.0.0.1:6878/ace/getstream?infohash=0bc4dbd6bde4a04e1d74d685ec3f522449dc42cf
+#EXTINF:-1 tvg-name="домашний hd" group-title="Эфирные",Домашний HD
+http://127.0.0.1:6878/ace/getstream?infohash=ad5c09fb6b08bc1aefe4b6bf292c4db6a04f7700
+#EXTINF:-1 tvg-name="суббота" group-title="Эфирные",Суббота
+http://127.0.0.1:6878/ace/getstream?infohash=ebeec408c96acce8cfea1dcb0a53397fbee77acf
+#EXTINF:-1 tvg-name="2x2" group-title="Эфирные",2x2
+http://127.0.0.1:6878/ace/getstream?infohash=b01e3050ce7cec0eb8749a907580cb6aa99a8f49
+#EXTINF:-1 tvg-name="че!" group-title="Эфирные",Че!
+http://127.0.0.1:6878/ace/getstream?infohash=3a0aadc7e0d18378e47100ec1b9210bf0faa30a2
+#EXTINF:-1 tvg-name="перец international" group-title="Эфирные",Перец International
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 tvg-name="ю тв" group-title="Эфирные",Ю ТВ
+http://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 tvg-name="рбк hd" group-title="Эфирные",РБК HD
+http://127.0.0.1:6878/ace/getstream?infohash=b3e2c143d1e998d166573c007c979fe0e0376a77
+#EXTINF:-1 tvg-name="звезда hd" group-title="Эфирные",Звезда HD
+http://127.0.0.1:6878/ace/getstream?id=c7c9e25f5511b34f3f0d06ccfd868f00b67d8e24
+#EXTINF:-1 tvg-name="звезда плюс hd" group-title="Эфирные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="первый тульский hd" group-title="Эфирные",Первый Тульский HD
+http://127.0.0.1:6878/ace/getstream?infohash=3b01d2717b6d53442d15d278d426519c6de0c01d
+#EXTINF:-1 tvg-name="русский север" group-title="Эфирные",Русский Север
+http://127.0.0.1:6878/ace/getstream?infohash=de0112c50f2b63ed633aba44eefa3df3e21f1c5c
+#EXTINF:-1 tvg-name="отр" group-title="Эфирные",ОТР HD
+http://185.46.16.239:8000/OTR
+#EXTINF:-1 tvg-name="8 канал" group-title="Эфирные",8 Канал
+http://127.0.0.1:6878/ace/getstream?infohash=0562d169e287ee925e7976d1e2f68aca3ac468df
+#EXTINF:-1 tvg-name="мир hd" group-title="Эфирные",Мир HD
+http://127.0.0.1:6878/ace/getstream?infohash=eff480eb00a232202f1773bcdb3d79511d16ddc5
+#EXTINF:-1 tvg-name="vip premiere hd" group-title="ФИЛЬМЫ",VIP Premiere HD
+http://127.0.0.1:6878/ace/getstream?infohash=9808c355077d9f9a8fd937732fe1141a7cbd54db
+#EXTINF:-1 tvg-name="vip megahit hd" group-title="ФИЛЬМЫ",VIP Megahit HD
+http://127.0.0.1:6878/ace/getstream?infohash=2946debcde707ac6dff8c35f56a02ebefc5e094d
+#EXTINF:-1 tvg-name="vip comedy hd" group-title="ФИЛЬМЫ",VIP Comedy HD
+http://127.0.0.1:6878/ace/getstream?infohash=8e27f09c9c4eb4ea09a1d2bc1c71689a52be5129
+#EXTINF:-1 tvg-name="vip serial hd" group-title="ФИЛЬМЫ",VIP Serial HD
+http://127.0.0.1:6878/ace/getstream?infohash=0f12577008461ddbdef03d974a23e7f2236ff2de
+#EXTINF:-1 tvg-name="мужское кино hd" group-title="ФИЛЬМЫ",Мужское Кино HD
+http://127.0.0.1:6878/ace/getstream?infohash=7d60b1179bac6fa3a63c7b80dd02b4bd33c9079e
+#EXTINF:-1 tvg-name="amedia 2 hd" group-title="ФИЛЬМЫ",Amedia 2 HD
+http://127.0.0.1:6878/ace/getstream?infohash=2a11aebead8123a02ed1413671eaa1e1ad33a408
+#EXTINF:-1 tvg-name="amedia premium hd" group-title="ФИЛЬМЫ",Amedia premium HD
+http://127.0.0.1:6878/ace/getstream?infohash=bd3909c04c1086803526c7b06a8266654a70e482
+#EXTINF:-1 tvg-name="amedia 1 hd orig" group-title="ФИЛЬМЫ",Amedia 1 HD orig
+http://127.0.0.1:6878/ace/getstream?infohash=cce1a8bc804cefa65bc72638f3a5f0252b086f90
+#EXTINF:-1 tvg-name="amedia hit hd" group-title="ФИЛЬМЫ",Amedia Hit HD
+http://127.0.0.1:6878/ace/getstream?infohash=2c4f6570d3c6cdbd726a98fd1df2bd1dcb60eab9
+#EXTINF:-1 tvg-name="tv1000 hd" group-title="ФИЛЬМЫ",TV1000 HD
+http://127.0.0.1:6878/ace/getstream?infohash=b2937e666b87952e13f299d9ee52bd77117f5ccb
+#EXTINF:-1 tvg-name="tv1000 action hd" group-title="ФИЛЬМЫ",TV1000 Action HD
+http://127.0.0.1:6878/ace/getstream?infohash=647c31eee02705588b3d84e6f4359d4c8123585b
+#EXTINF:-1 tvg-name="tv1000 русское кино hd" group-title="ФИЛЬМЫ",TV1000 Русское кино HD
+http://127.0.0.1:6878/ace/getstream?infohash=579f9693b8084c1b8349c4108ab7a69d2953e72f
+#EXTINF:-1 tvg-name="tv1000 world kino" group-title="ФИЛЬМЫ",TV1000 World Kino
+http://127.0.0.1:6878/ace/getstream?infohash=36327fc5b9ce670f5d51e0eb322b079ae2d06cd8
+#EXTINF:-1 tvg-name="дом кино премиум hd" group-title="ФИЛЬМЫ",Дом Кино Премиум HD
+http://127.0.0.1:6878/ace/getstream?infohash=1b86e011adec585107f75423b7c5827f2ce0e460
+#EXTINF:-1 tvg-name="кино тв hd" group-title="ФИЛЬМЫ",КИНО ТВ HD
+http://127.0.0.1:6878/ace/getstream?infohash=23446bc0b284950a536eab7592bc1918e2fa667f
+#EXTINF:-1 tvg-name="мосфильм. золотая коллекция hd" group-title="ФИЛЬМЫ",Мосфильм. Золотая коллекция HD
+http://127.0.0.1:6878/ace/getstream?infohash=7489852d25d4dbb269c1352042c7423f13220903
+#EXTINF:-1 tvg-name="кинокомедия hd" group-title="ФИЛЬМЫ",Кинокомедия HD
+http://127.0.0.1:6878/ace/getstream?infohash=5254ec612b0bded26299560b4e51bd491bf9796f
+#EXTINF:-1 tvg-name="киносемья hd" group-title="ФИЛЬМЫ",Киносемья HD
+http://127.0.0.1:6878/ace/getstream?infohash=605dc598e02b8ba1ef8c07572661a421cefe33ba
+#EXTINF:-1 tvg-name="премиальное hd" group-title="ФИЛЬМЫ",Премиальное HD
+http://127.0.0.1:6878/ace/getstream?infohash=c9f1505f9c0597424e0c595edbe441c1780a8b12
+#EXTINF:-1 tvg-name="комедийное hd" group-title="ФИЛЬМЫ",Комедийное HD
+http://127.0.0.1:6878/ace/getstream?infohash=ac61a121998a3dcd1aa2a0bda6c8d757f89388af
+#EXTINF:-1 tvg-name="остросюжетное hd" group-title="ФИЛЬМЫ",Остросюжетное HD
+http://127.0.0.1:6878/ace/getstream?infohash=da7e8d2f8d00e935946fb17a88d6eab62e7212ef
+#EXTINF:-1 tvg-name="душевное кино hd" group-title="ФИЛЬМЫ",Душевное кино HD
+http://cdn.admuspeh.my/8296/video.m3u8?token=C89nwPVSWZsaoXUy
+#EXTINF:-1 tvg-name="шокирующее hd" group-title="ФИЛЬМЫ",Шокирующее HD
+http://127.0.0.1:6878/ace/getstream?infohash=90f87b7e2044d25ce1e483774bded9ccf961e697
+#EXTINF:-1 tvg-name="cinema hd" group-title="ФИЛЬМЫ",Cinema HD
+http://127.0.0.1:6878/ace/getstream?infohash=4b9aab6ea7a9143085d887918f990d82189d700f
+#EXTINF:-1 tvg-name="камеди hd" group-title="ФИЛЬМЫ",Камеди HD
+http://127.0.0.1:6878/ace/getstream?infohash=9f1c19be4fa27db2bc9789252240296d2cc66b54
+#EXTINF:-1 tvg-name="хит hd" group-title="ФИЛЬМЫ",Хит HD
+http://127.0.0.1:6878/ace/getstream?infohash=c6b97fd0578b6f279870a6d002640c1fc97e810a
+#EXTINF:-1 tvg-name="наше любимое hd" group-title="ФИЛЬМЫ",Наше любимое HD
+http://127.0.0.1:6878/ace/getstream?infohash=156283f58f21399fb21145d36fd43419da56bfbf
+#EXTINF:-1 tvg-name="наше мужское hd" group-title="ФИЛЬМЫ",Наше Мужское HD
+http://127.0.0.1:6878/ace/getstream?infohash=2fcdf632729bef234bfe1048532be31fe261d2c3
+#EXTINF:-1 tvg-name="наш кинопоказ hd" group-title="ФИЛЬМЫ",Наш Кинопоказ HD
+http://127.0.0.1:6878/ace/getstream?infohash=2344fa4304ac860f6469f03b1563b9332acefeb0
+#EXTINF:-1 tvg-name="наше hd orig" group-title="ФИЛЬМЫ",Наше HD orig
+http://127.0.0.1:6878/ace/getstream?infohash=43457f20587e5837ff55c0b46ac549dfc155103a
+#EXTINF:-1 tvg-name="наше новое кино" group-title="ФИЛЬМЫ",Наше новое кино
+http://127.0.0.1:6878/ace/getstream?infohash=5e41e16355cfe58b6aa24820ce4110b3e1fd7f05
+#EXTINF:-1 tvg-name="наше крутое hd" group-title="ФИЛЬМЫ",Наше крутое HD
+http://127.0.0.1:6878/ace/getstream?infohash=43457f20587e5837ff55c0b46ac549dfc155103a
+#EXTINF:-1 tvg-name="блокбастер hd" group-title="ФИЛЬМЫ",Блокбастер HD
+http://127.0.0.1:6878/ace/getstream?infohash=26704e203fcf15bf025bbc9a2d238dfb14075652
+#EXTINF:-1 tvg-name="кинопоказ hd" group-title="ФИЛЬМЫ",Кинопоказ HD
+http://127.0.0.1:6878/ace/getstream?infohash=403a3d7707586a2639237ea4d441cc029459524c
+#EXTINF:-1 tvg-name="романтичное hd" group-title="ФИЛЬМЫ",Романтичное HD
+http://127.0.0.1:6878/ace/getstream?infohash=fc05594eea6af5b2d82b022b768a92d1260b4ffe
+#EXTINF:-1 tvg-name="про любовь hd" group-title="ФИЛЬМЫ",Про Любовь HD
+http://127.0.0.1:6878/ace/getstream?infohash=bd0abcbc41397ebec18e94dd4799b24c21449ccd
+#EXTINF:-1 tvg-name="киноджем 1 hd" group-title="ФИЛЬМЫ",Киноджем 1 HD
+http://127.0.0.1:6878/ace/getstream?infohash=3b40d0d8f3292e94d23e92e7f2fad000b1b03f92
+#EXTINF:-1 tvg-name="fan hd" group-title="ФИЛЬМЫ",FAN HD
+http://127.0.0.1:6878/ace/getstream?infohash=f54e34b0f822b9050c5491d4dc9efc61b2b8fe14
+#EXTINF:-1 tvg-name="кинеко" group-title="ФИЛЬМЫ",Кинеко
+http://127.0.0.1:6878/ace/getstream?infohash=1178829996d938a69c7b942ef804127bfca836b3
+#EXTINF:-1 tvg-name="кинохит hd" group-title="ФИЛЬМЫ",Кинохит HD
+http://127.0.0.1:6878/ace/getstream?infohash=373b097439b972056ddd336f74949e5d012a4634
+#EXTINF:-1 tvg-name="киноужас hd" group-title="ФИЛЬМЫ",Киноужас HD
+http://127.0.0.1:6878/ace/getstream?infohash=44f248fb3e52db27504a1fa72560e0aa187ac72e
+#EXTINF:-1 tvg-name="киносерия hd" group-title="ФИЛЬМЫ",Киносерия HD
+http://127.0.0.1:6878/ace/getstream?infohash=80e761abc1c2793ee2ceb87485db40b99bb13407
+#EXTINF:-1 tvg-name="кинопремьера hd" group-title="ФИЛЬМЫ",Кинопремьера HD
+http://127.0.0.1:6878/ace/getstream?infohash=8eb2c2a4534bcbaa1873e258e0fa4fcdad0dc05c
+#EXTINF:-1 tvg-name="киносвидание hd" group-title="ФИЛЬМЫ",Киносвидание HD
+http://127.0.0.1:6878/ace/getstream?infohash=ce1735b634b02267a74367a51f0ef8ef66630ef7
+#EXTINF:-1 tvg-name="киномикс hd" group-title="ФИЛЬМЫ",Киномикс HD
+http://127.0.0.1:6878/ace/getstream?infohash=9650f12d9a13248dc7ee4919eb208b0eff3c563a
+#EXTINF:-1 tvg-name="киносат" group-title="ФИЛЬМЫ",Киносат
+http://127.0.0.1:6878/ace/getstream?infohash=c1dee6517b501723725b0ba578e2134ba8d317a6
+#EXTINF:-1 tvg-name=".red" group-title="ФИЛЬМЫ",.red
+http://127.0.0.1:6878/ace/getstream?infohash=cd680104166a605ed27730dcaec73bf81221d540
+#EXTINF:-1 tvg-name=".black" group-title="ФИЛЬМЫ",.black
+http://127.0.0.1:6878/ace/getstream?infohash=18cf2d3491233fa980add6db246847a5077be047
+#EXTINF:-1 tvg-name=".sci-fi" group-title="ФИЛЬМЫ",.sci-fi
+http://127.0.0.1:6878/ace/getstream?infohash=4155750f93c063a053c9d6628657616b0457eb9f
+#EXTINF:-1 tvg-name="нст" group-title="ФИЛЬМЫ",НСТ
+http://127.0.0.1:6878/ace/getstream?infohash=2a996dbd7180fe0fa2c147b7ee1d532c220c2457
+#EXTINF:-1 group-title="ФИЛЬМЫ",Твоё ТВ HD
+http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 tvg-name="hollywood" group-title="ФИЛЬМЫ",Hollywood
+http://127.0.0.1:6878/ace/getstream?infohash=2410ae82a0227b51843b4cf47260c14aa8b4503e
+#EXTINF:-1 tvg-name="дом кино" group-title="ФИЛЬМЫ",Дом Кино
+http://127.0.0.1:6878/ace/getstream?infohash=22b73ed881efe130b4222b0168de8a0e8a299c24
+#EXTINF:-1 tvg-name="арсенал hd" group-title="ФИЛЬМЫ",Арсенал HD
+http://127.0.0.1:6878/ace/getstream?infohash=fbe6cc6532011348e31992e4e37138de3001f2d7
+#EXTINF:-1 tvg-name="победа" group-title="ФИЛЬМЫ",Победа
+http://87.246.54.249:8085/Pobeda/index.m3u8
+#EXTINF:-1 tvg-name="кино 1 international" group-title="ФИЛЬМЫ",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name="comedy central" group-title="ФИЛЬМЫ",Comedy Central
+http://127.0.0.1:6878/ace/getstream?infohash=326bcf986240946ed19412736a1165877d6952b3
+#EXTINF:-1 tvg-name="fox" group-title="ФИЛЬМЫ",FOX
+http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
+#EXTINF:-1 tvg-name="fox life hd" group-title="ФИЛЬМЫ",Fox Life HD
+http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
+#EXTINF:-1 group-title="ФИЛЬМЫ",FLIXSNIP
+http://127.0.0.1:6878/ace/getstream?infohash=d3d7c2d1af9524dbf222cad1316c7b08a34e476c
+#EXTINF:-1 tvg-name="еврокино hd orig" group-title="ФИЛЬМЫ",Еврокино HD orig
+http://127.0.0.1:6878/ace/getstream?infohash=7e47ad913e702f8586bcdb0c4d97d3f96e8641c0
+#EXTINF:-1 tvg-name="дорама hd" group-title="ФИЛЬМЫ",ДОРАМА HD
+http://127.0.0.1:6878/ace/getstream?infohash=7a19cd742fba7d89ffa491776c38b3008154df36
+#EXTINF:-1 tvg-name="страшное hd" group-title="ФИЛЬМЫ",Страшное HD
+http://127.0.0.1:6878/ace/getstream?infohash=9ac637b44ab67b62d2e195c2e2e15178f96cb548
+#EXTINF:-1 tvg-name="bollywood hd" group-title="ФИЛЬМЫ",Bollywood HD
+http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0
+#EXTINF:-1 tvg-name="индийское кино" group-title="ФИЛЬМЫ",Индийское кино
+http://127.0.0.1:6878/ace/getstream?infohash=c62affbc37a7b013f7e47d72e11e09e5879a053b
+#EXTINF:-1 tvg-name="стс love" group-title="ФИЛЬМЫ",СТС love
+http://127.0.0.1:6878/ace/getstream?infohash=c8664d53f5553fbbc565e5c2e99f6cc31f1e78db
+#EXTINF:-1 tvg-name="советская киноклассика" group-title="ФИЛЬМЫ",Советская Киноклассика
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ностальгия" group-title="ФИЛЬМЫ",Ностальгия
+http://127.0.0.1:6878/ace/getstream?infohash=3b63538adbaed8e4b192a054fdc7882296d44026
+#EXTINF:-1 tvg-name="родное кино" group-title="ФИЛЬМЫ",Родное кино
+http://127.0.0.1:6878/ace/getstream?infohash=2f681a20a31e7e7a351702823d50c50dcf96fc0c
+#EXTINF:-1 tvg-name="любимое кино hd" group-title="ФИЛЬМЫ",Любимое кино HD
+http://127.0.0.1:6878/ace/getstream?infohash=2d5d33c8c011603172bf9d778d6d77dcce6e0aca
+#EXTINF:-1 tvg-name="феникс плюс кино" group-title="ФИЛЬМЫ",Феникс плюс Кино
+http://127.0.0.1:6878/ace/getstream?infohash=ac1af534d9413abee090607cd87954d964d2fd91
